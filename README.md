@@ -8,7 +8,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 The data architecture for this project follows **Medallion** Architecture **Bronze**, **Silver**, and **Gold** layers:<br/><br/>
 
-[architechture](https://github.com/zaid638/sql-data-warehouse-project/blob/main/docs/Data_Architechture.png)<br/><br/>
+![architechture](https://github.com/zaid638/sql-data-warehouse-project/blob/main/docs/Data_Architechture.png)<br/><br/>
 
 
 

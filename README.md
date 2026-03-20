@@ -54,28 +54,3 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-# Data Pipeline Flow<br/><br/>
-
-**1. Data Ingestion**<br/>
-  - Raw data from both companies is stored in Amazon S3<br/>
-
-**2. Bronze Layer**<br/>
-  - Ingest raw data into Databricks
-  - Store as-is for traceability<br/>
-
-**3. Silver Layer**<br/>
-  - Data cleaning, schema enforcement
-  - Handle duplicates, nulls, inconsistencies<br/>
-
-**4. Gold Layer**<br/>
-  - Business-level aggregations
-  - Unified data model across parent & child companies<br/>
-
-**5. Consumption Layer**<br/>
-  - BI dashboards for stakeholders<br/><br/>
-
-  ---
-
-
-  
-
